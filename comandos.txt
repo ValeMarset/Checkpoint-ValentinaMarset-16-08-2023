@@ -1,0 +1,16 @@
+git clone https://github.com/ValeMarset/Checkpoint-ValentinaMarset-16-08-2023.git
+git add .
+git commit -m "commit 01 de Valentina Marset"
+git push origin main
+git branch feature
+git checkout feature
+git add .
+git commit -m "commit 02 de Valentina Marset"
+git push origin feature
+git checkout main
+git add .
+git commit -m "commit 03 de Valentina Marset"
+git push origin main
+git add .
+git commit -m "commit 04 de Valentina Marset"
+git push origin main
